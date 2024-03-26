@@ -1,5 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+<div style="display:flex; flex-direction:row; column-gap:10px;">
 <img src="https://github.com/aozdemiirr1/e-ticaretSepeti/assets/121563534/5f14fd69-b59f-4e99-bc76-ff2117ff5a87" />
+<img src="https://github.com/aozdemiirr1/e-ticaretSepeti/assets/121563534/951921bb-a897-4eaa-a868-c7788c68e0af" />  
+</div>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
